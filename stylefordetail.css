@@ -1,0 +1,15 @@
+.details {
+   padding: 20px;
+   
+}
+img {
+   display: inline-flex;
+   margin: auto 5px;
+   
+   width: 500px;
+ }
+
+.color-car{
+   float:left;
+   padding-right: 70px;
+}
